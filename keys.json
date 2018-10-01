@@ -7,10 +7,9 @@
   "https://raw.githubusercontent.com/fpad/trusted-list/master/jku-test/jku-test.json": {
     "kid": "DemoSite"
   },
-  "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvxJO+EViVAb9opSYyoGoHaZb7NTFpqGE9m/Ek4f3pdVW2xuoAHtEaBkoXZSgE7cPySFHyrUAP+GEeYxwCyKIjvnbpSOxt6GRi9zfSXd+/w8Htg5ewq5EdBjpxUdt0boUrX/no04Nd5YdFSySvcuW9YBfYcsLI75Xq0qmVv667IMN1tpScgI4FMBhf2V4Wxtq+TrChUdJuUHSC5NTEPUzmRYFqVPYoGlaq5vetE03KsFm77QqfgYuiChs9/zlEIVPpFRhHsAc1/rNp2TqWuCvUv4gn7/icARInG64koo7dchF7aYpWdJkenZeIRK1uMFUxM2u/IB1g5Wi82D6pHKjcwIDAQAB": {
+  "vxJO-EViVAb9opSYyoGoHaZb7NTFpqGE9m_Ek4f3pdVW2xuoAHtEaBkoXZSgE7cPySFHyrUAP-GEeYxwCyKIjvnbpSOxt6GRi9zfSXd-_w8Htg5ewq5EdBjpxUdt0boUrX_no04Nd5YdFSySvcuW9YBfYcsLI75Xq0qmVv667IMN1tpScgI4FMBhf2V4Wxtq-TrChUdJuUHSC5NTEPUzmRYFqVPYoGlaq5vetE03KsFm77QqfgYuiChs9_zlEIVPpFRhHsAc1_rNp2TqWuCvUv4gn7_icARInG64koo7dchF7aYpWdJkenZeIRK1uMFUxM2u_IB1g5Wi82D6pHKjcw": {
     "kid": "trellisfw-service-signatures",
-    "alg": "RS256",
-    "kty": "RSA",
-    "typ": "JWT"
+    "e": "AQAB",
+    "kty": "RSA"
   }
 }
